@@ -1,0 +1,5 @@
+Uses nodejs, javascript and mongodb.
+1. When user ckicks on "Submit" button by entering details a new user data is being created in database
+2. If the user already have na account then by entering details and clicking in Login button one can go to the chatapp environment.
+3. In chatapp the user again have to create a room so that another can join it and there is a limit of maximum 800 people per room.
+That's all.
